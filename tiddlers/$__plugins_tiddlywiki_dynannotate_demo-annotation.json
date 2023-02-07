@@ -1,0 +1,11 @@
+[
+    {
+        "title": "$:/plugins/tiddlywiki/dynannotate/demo-annotation",
+        "type": "text/vnd.tiddlywiki",
+        "annotate-tiddler": "面签管理办法",
+        "annotate-text": "业务投放项目合同签署流程，加强对客户签署真实性的核实 hets\n工作，防范业务风险，特制定本办法。hets 海通恒信国际融",
+        "annotate-prefix": "\n第一条为规范海通恒信国际融资租赁股份有限公司（以下简称 “公司”）",
+        "annotate-suffix": "资租赁股份有限公司\n",
+        "annotate-colour": "White"
+    }
+]
